@@ -1,0 +1,26 @@
+body {
+
+
+background-color: black;
+background-image: url(https://www.zikinf.com/_gfx/matos/dyn/large/fender-american-standard-stratocaster_10.jpg);
+margin-left: 30px;
+margin-bottom: 10px;
+margin-right: 3px;
+margin-top: 10px;
+ 
+
+}
+h1	{
+margin: 0px auto;
+font-size: 61pt;
+color: black;
+
+}
+h2	{
+font-size: 44pt;
+font-color: black;
+}
+ul {
+font-size: 44pt;
+font-color: black;
+}
